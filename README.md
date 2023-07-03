@@ -1,2 +1,2 @@
 # nextjs-blog
-nextjs tutorial
+This is nextjs tutorial. example!
